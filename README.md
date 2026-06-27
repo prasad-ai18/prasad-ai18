@@ -236,3 +236,14 @@ I believe in learning by building. Every project I create is an opportunity to i
 💼 Forage Job Simulation Graduate  
 🚀 NIELIT AI Certified  
 📊 SQL & Data Analytics Certified
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prasad-ai18&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-ai18&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-ai18&layout=compact&theme=tokyonight"/>
+
+</p>
