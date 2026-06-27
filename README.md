@@ -182,3 +182,57 @@ I believe in learning by building. Every project I create is an opportunity to i
 ### 📊 Deloitte Data Analytics
 - Completed business analytics simulation
 - Created dashboards and interpreted business data
+# 🏆 Certifications & Achievements
+
+### 🤖 Artificial Intelligence
+<p>
+<img src="https://img.shields.io/badge/Microsoft-AI_Concepts-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Generative_AI_&_Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-NLP_Concepts-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Analytics_Vidhya-Introduction_to_AI_&_ML-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/be10X-AI_Tools_&_ChatGPT_Workshop-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NIELIT-Yuva_AI_For_All-success?style=for-the-badge"/>
+</p>
+
+### ☁️ Generative AI
+<p>
+<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Simplilearn-Prompt_Engineering-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Simplilearn-Vibe_Coding-blue?style=for-the-badge"/>
+</p>
+
+### 🐍 Python
+<p>
+<img src="https://img.shields.io/badge/Great_Learning-Python_Fundamentals-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM-Python_101_for_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-Python_for_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+### 💾 Programming & Database
+<p>
+<img src="https://img.shields.io/badge/Simplilearn-C_Programming_Basics-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM-SQL_&_Relational_Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+### 📊 Productivity & Analytics
+<p>
+<img src="https://img.shields.io/badge/Microsoft-MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jyothi_Engineering_College-AI_in_Healthcare-purple?style=for-the-badge"/>
+</p>
+
+### 💼 Professional Development
+<p>
+<img src="https://img.shields.io/badge/Forage-Resume_Writing_with_AI-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nestlé-Resilience_Program-00843D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unstop-Mock_Interviews-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CampusCrew-100K_Milestone_Honor-gold?style=for-the-badge"/>
+</p>
+
+### 🏅 Highlights
+✨ 20+ Industry Certifications  
+🏆 IBM Skills Network Certified  
+☁️ Microsoft Learn Certified  
+🤖 Google Cloud AI Learner  
+💼 Forage Job Simulation Graduate  
+🚀 NIELIT AI Certified  
+📊 SQL & Data Analytics Certified
