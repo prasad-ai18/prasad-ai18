@@ -268,3 +268,82 @@ I believe in learning by building. Every project I create is an opportunity to i
 </a>
 
 </p>
+# 🚀 Featured Projects
+
+> ⭐ Explore all my projects on GitHub with source code and regular updates.
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 AI Assistant | Personal AI assistant | Python |
+| 📊 Data Analytics Dashboard | Data visualization & analysis | Python, Pandas |
+| 🌐 Portfolio Website | Responsive portfolio | HTML, CSS, JavaScript |
+| 🗄️ SQL Practice | Database queries & analysis | SQL |
+
+---
+
+# 📚 Currently Learning
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Data Analytics
+- 📈 Power BI
+- 🤖 Machine Learning
+- 🌐 Flask
+- ⚡ Streamlit
+- 🧠 Generative AI
+
+---
+
+# 🎯 2026 Goals
+
+✅ Reach 9.0+ CGPA
+
+✅ Build 10+ Quality Projects
+
+✅ Earn 30+ Industry Certifications
+
+✅ Complete 200+ DSA Problems
+
+✅ Secure an AI/ML or Data Analytics Internship
+
+✅ Reach 5,000+ LinkedIn Followers
+
+✅ Stay Consistent in Learning & Building
+
+---
+
+# 💡 A Little About Me
+
+💻 Passionate about AI, Machine Learning & Data Analytics
+
+📚 I enjoy learning through real-world projects
+
+🤝 Always open to collaborations and networking
+
+🚀 Building skills one step at a time
+
+☕ Coffee + Code = Productivity
+
+---
+
+# 💬 Favorite Quote
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."** 🚀
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prasad-ai18&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# ⭐ Thanks for Visiting
+
+If you like my work, don't forget to ⭐ my repositories and connect with me on LinkedIn.
+
+<p align="center">
+<b>Thanks for visiting my profile! ❤️</b>
+</p>
