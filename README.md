@@ -71,38 +71,66 @@ I believe in learning by building. Every project I create is an opportunity to i
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,mysql,bash" />
 </p>
 
-### 🤖 Artificial Intelligence & Machine Learning
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
-</p>
-
-### 📊 Data Analytics
-<p align="left">
+### 📊 Data Science & Analytics
+<p>
 <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hypothesis_Testing-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time_Series-FF6B6B?style=for-the-badge"/>
+</p>
+
+### 🤖 Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hyperparameter_Tuning-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross_Validation-20B2AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUC--ROC-FF6347?style=for-the-badge"/>
+</p>
+
+### 🧠 AI / LLMs
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD43B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speech_Recognition-1E90FF?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://img.shields.io/badge/SQL_Joins-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subqueries-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Window_Functions-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-2E8B57?style=for-the-badge"/>
+</p>
+
+### 📈 Visualization
+<p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-0B5CAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge"/>
 </p>
 
-### 🛠️ Development Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
-</p>
-
-### 🌐 Currently Learning
-<p align="left">
-<img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-blue?style=for-the-badge"/>
+### ⚙️ Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,fastapi,docker" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 </p>
