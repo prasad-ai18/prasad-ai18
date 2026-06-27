@@ -47,3 +47,24 @@
 🚀 My goal is to become an AI/ML Engineer who builds impactful products that solve meaningful problems.
 
 🌱 Every project I build is an opportunity to learn something new and improve my engineering skills.
+## 👨‍💻 About Me
+
+I'm **B. Lakshmi Vara Prasad**, a B.Tech Computer Science Engineering (AI & ML) student at **SITAMS, Chittoor**, with a strong passion for **Artificial Intelligence, Machine Learning, Data Analytics, and Python Development**.
+
+I enjoy transforming real-world problems into practical software solutions through clean code, data-driven thinking, and continuous learning. My interests include **Machine Learning, Generative AI, NLP, Data Visualization, Feature Engineering, SQL, and Python Development**.
+
+Currently, I'm gaining hands-on industry experience through internships while continuously strengthening my knowledge by building real-world projects, participating in virtual experience programs, and earning professional certifications from leading technology organizations.
+
+I believe in learning by building. Every project I create is an opportunity to improve my problem-solving skills, write better code, and understand how technology creates real business impact.
+
+### 🚀 Current Focus
+- 🤖 Machine Learning & Artificial Intelligence
+- 🐍 Advanced Python Development
+- 📊 Data Analytics & Business Intelligence
+- 🧠 Generative AI & Large Language Models (LLMs)
+- 🔗 LangChain & AI Applications
+- 🗄️ SQL & Database Management
+- 📈 Power BI & Data Visualization
+- ☁️ Open Source Contributions & GitHub Growth
+
+> **"Code. Learn. Build. Improve. Repeat."** 🚀
