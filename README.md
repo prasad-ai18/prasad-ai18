@@ -134,3 +134,51 @@ I believe in learning by building. Every project I create is an opportunity to i
 <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 </p>
+# 💼 Professional Experience
+
+## 🤖 Machine Learning Intern
+### 🏢 TechnoHacks Solutions Pvt. Ltd.
+📅 June 2026 – Present
+
+- 🤖 Building Machine Learning models using Python and Scikit-Learn
+- 📊 Working on data preprocessing, feature engineering and model evaluation
+- 📈 Exploring supervised learning algorithms and real-world datasets
+- 💡 Strengthening practical knowledge in AI, Machine Learning and Data Science
+
+---
+
+## 🐍 Python Programming Intern
+### 🏢 Decode Labs
+📅 June 2026 – Present
+
+- 🐍 Developing Python applications using clean coding practices
+- ⚙️ Applying Object-Oriented Programming (OOP) concepts
+- 🔧 Performing debugging, testing and code optimization
+- 🌱 Collaborating using Git & GitHub version control
+
+---
+
+## 📊 Data Analyst Intern
+### 🏢 Bluestock Fintech
+📅 April 2026 – Present
+
+- 📈 Cleaning and validating financial datasets
+- 📊 Building interactive dashboards and reports
+- 📉 Performing Exploratory Data Analysis (EDA)
+- 📌 Extracting business insights using Python, Excel and Power BI
+
+---
+
+# 🎓 Virtual Experience Programs
+
+## 💼 Tata GenAI Data Analytics
+- Applied Generative AI for business analytics workflows
+- Built AI-assisted reporting solutions
+
+### 🏦 JPMorgan Chase Quant Research
+- Worked on financial datasets
+- Performed quantitative analysis and market research
+
+### 📊 Deloitte Data Analytics
+- Completed business analytics simulation
+- Created dashboards and interpreted business data
