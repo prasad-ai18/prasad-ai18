@@ -247,3 +247,10 @@ I believe in learning by building. Every project I create is an opportunity to i
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-ai18&layout=compact&theme=tokyonight"/>
 
 </p>
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prasad-ai18&theme=tokyonight&row=2&column=4"/>
+
+</p>
