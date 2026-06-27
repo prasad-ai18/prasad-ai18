@@ -68,3 +68,41 @@ I believe in learning by building. Every project I create is an opportunity to i
 - ☁️ Open Source Contributions & GitHub Growth
 
 > **"Code. Learn. Build. Improve. Repeat."** 🚀
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
+</p>
+
+### 📊 Data Analytics
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🛠️ Development Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
+</p>
+
+### 🌐 Currently Learning
+<p align="left">
+<img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-blue?style=for-the-badge"/>
+</p>
